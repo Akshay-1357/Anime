@@ -1,0 +1,6 @@
+{
+  "name": "KuroNami Anime",
+  "description": "Premium anime streaming destination with high-definition playback, multi-episode series, Danmaku bullet comments, and watch progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
